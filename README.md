@@ -9,7 +9,7 @@ EasyTwitch.NET was made entirely for noobs when it comes to coding twitch bots i
 
 The Source will be added at the first release.
 
-# Creating your first project with EasyTwitch.NET:
+## Creating your first project with EasyTwitch.NET:
 
 In order to create your first code with EasyTwitch.NET, firstly you're going to have to download the package. You can use Git clone, or you could download it from the link at the top of this page.
 
@@ -25,7 +25,7 @@ In order to create your first code with EasyTwitch.NET, firstly you're going to 
 
 6. Import, and you're done with the installation.
 
-# Getting to know EasyTwitch.NET
+## Getting to know EasyTwitch.NET
 Here's a tutorial c# class that you can learn from. If any questions, you can read the documentation.
 ```c#
 using System;
