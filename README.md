@@ -5,6 +5,10 @@ Simple Library for Twitch Bots. Great for learning C#.
 
 EasyTwitch.NET was made entirely for noobs when it comes to coding twitch bots in c#. With this library you can create swift twitch bots in minutes. Custom commands, connection systems, minigames, and more to come. Made by @FlappyFlag.
 
+### Open-Source
+
+The Source will be added at the first release.
+
 # Creating your first project with EasyTwitch.NET:
 
 In order to create your first code with EasyTwitch.NET, firstly you're going to have to download the package. You can use Git clone, or you could download it from the link at the top of this page.
