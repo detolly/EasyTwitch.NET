@@ -44,7 +44,7 @@ namespace CPTBot
 			setupCommandManager ();
 
 			//Here we initialize our connection to twitch with our credentials, all in one line of code.
-			connectionManager = new ConnectionManager ("cptsparklezfan", "oauth:99kzxw7ut4iep4wmd8bu2gfqk54o7n");
+			connectionManager = new ConnectionManager ("username", "oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
 			//This is where we do the connection itself.
 			connectionManager.Connect(Connected);
