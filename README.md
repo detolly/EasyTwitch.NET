@@ -18,6 +18,8 @@ The Source will be added at the first release.
 
 If you could donate that would mean the world to me, as I do this 100% for free, you can download with no charge.
 
+[Doante](https://twitch.streamlabs.com/cptsparklezfan)
+
 ## Creating your first project with EasyTwitch.NET:
 
 In order to create your first code with EasyTwitch.NET, firstly you're going to have to download the package. You can use Git clone, or you could download it from the link at the top of this page.
