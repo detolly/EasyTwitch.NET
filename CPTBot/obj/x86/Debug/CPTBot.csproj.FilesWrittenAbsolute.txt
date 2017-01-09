@@ -1,0 +1,5 @@
+/home/thomas/Documents/MonoDevelop/CPTBot/CPTBot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thomas/Documents/MonoDevelop/CPTBot/CPTBot/bin/Debug/CPTBot.exe.mdb
+/home/thomas/Documents/MonoDevelop/CPTBot/CPTBot/bin/Debug/CPTBot.exe
+/home/thomas/Documents/MonoDevelop/CPTBot/CPTBot/obj/x86/Debug/CPTBot.exe
+/home/thomas/Documents/MonoDevelop/CPTBot/CPTBot/obj/x86/Debug/CPTBot.exe.mdb
