@@ -102,7 +102,7 @@ namespace CPTBot
 			//Down here I'm going to have a custom command that makes me able to have a command
 			//that I can create more commands from.
 			//Remember: This is completely unnecessary in order to have a functioning bot, but I'm
-			//just showing youhow to make a 
+			//just showing you how you could proceed after this tutorial
 
 			if (message.message.StartsWith ("!commandadd ")) {
 				//The message.getArgs function returns an array with the message split by a space.
@@ -129,4 +129,5 @@ namespace CPTBot
 		}
 	}
 }
-
+```
+You reached the end! Congrats. Hope you can make some awesome twitch bots with this.
