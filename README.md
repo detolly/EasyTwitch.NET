@@ -17,11 +17,11 @@ In order to create your first code with EasyTwitch.NET, firstly you're going to 
 
 2. Create a project if you haven't already done so first.
 
-3. Right-click on your project. Click the listing that says packages, or similar.
+3. Right-click on your project. Click the listing that says packages, references, or similar.
 
-4. Locate Add Package.
+4. Locate Add Reference.
 
-5. Add Package from File, and locate the DLL file from before.
+5. Add Reference from File, and browse for the DLL file from before.
 
 6. Import, and you're done with the installation.
 
